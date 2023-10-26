@@ -1,4 +1,4 @@
-# CMPS 2200  Recitation 10
+# CMPS 2200  Recitation 07
 
 Today we'll learn more about graphs and how to navigate them. As usual, code goes in `main.py`, and short answer in `answers.md`.
 
